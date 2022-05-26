@@ -18,7 +18,12 @@ For MyBotMain.java and MyBot.java to properly compile, both gson-2.6.2.jar and p
 
 To interact with the bot once it is running, go to https://webchat.freenode.net/ select your user-name, and choose '#pircbot' as the designated channel. Once in the chatroom, simply type commands to interact with the bot.
 
-![Sample connection to chatroom](/assets/chatroom-connection.png)
+<p align="center">
+  <i>Example Connection</i>
+</p>
+<p align="center">
+  <img src="/assets/chatroom-connection.png" alt="Screenshot of a sample connection to chatroom" title="Sample connection to chatroom" />
+</p>
 
 ## Commands
 
