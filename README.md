@@ -20,6 +20,8 @@ To interact with the bot once it is running, go to https://webchat.freenode.net/
 
 ## Commands
 
+**Bolded arguments** are required, *italicized arguments* are optional.
+
 'bye' - causes the bot to leave the chatroom.
 
 'help' - displays all of the bots commands.
