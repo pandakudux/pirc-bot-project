@@ -8,7 +8,7 @@ The goal of this project was to utilize the pirc-bot framework and create an int
 
 ## Running the bot
 
-To run this bot the following files will be required:
+To run this bot the following files will be required (.java files can be found in the SourceCode folder):
 - MyBotMain.java
 - MyBot.java
 - gson-2.6.2.jar
