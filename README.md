@@ -30,11 +30,16 @@ To interact with the bot once it is running, go to https://webchat.freenode.net/
 **Bolded arguments** are required, *italicized arguments* are optional.
 
 'bye' - causes the bot to leave the chatroom.
+>![Example of 'bye' command](/assets/bye-example.png)
 
 'help' - displays all of the bots commands.
+>![Example of 'help' command](/assets/help-example.png)
 
-'movie **[movie title]**' - accesses the IMDB API to display information about the given movie title.
+'movie **[movie title]**' - accesses the OMDb API to display information about the given movie title.
+>![Example of 'movie' command](/assets/movie-example.png)
 
 'time' - displays the current time in 
+>![Example of 'time' command](/assets/time-example.png)
 
 'weather **[city]** *[country]*' - Displays the current, peak, and trough temperatures of the day in farenheight. City is a required argument while country is optional.
+>![Example of 'weather' command](/assets/weather-example.png)
