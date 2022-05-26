@@ -21,7 +21,11 @@ To interact with the bot once it is running, go to https://webchat.freenode.net/
 ## Commands
 
 'bye' - causes the bot to leave the chatroom.
+
 'help' - displays all of the bots commands.
+
 'movie [Movie Title]' - accesses the IMDB API to display information about the given movie title.
+
 'time' - displays the current time in 
+
 'weather [city] [country]' - Displays the current, peak, and trough temperatures of the day in farenheight. City is a required argument while country is optional.
