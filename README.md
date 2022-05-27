@@ -24,7 +24,7 @@ To interact with the bot once it is running, go to https://webchat.freenode.net/
   <i>Example Connection</i>
 </p>
 <p align="center">
-  <img src="" alt="Screenshot of a sample connection to chatroom" title="Sample connection to chatroom" />
+  <img src="/assets/chatroom-connection.png" alt="Screenshot of a sample connection to chatroom" title="Sample connection to chatroom" />
 </p>
 
 ## Commands
@@ -32,18 +32,18 @@ To interact with the bot once it is running, go to https://webchat.freenode.net/
 **Bolded arguments** are required, *italicized arguments* are optional.
 
 'bye' - causes the bot to leave the chatroom.
->![Example of 'bye' command]()
+>![Example of 'bye' command](/assets/bye-example.png)
 
 'help' - displays all of the bots commands.
->![Example of 'help' command]()
+>![Example of 'help' command](/assets/help-example.png)
 
 'movie **[movie title]**' - accesses the OMDb API to display information about the given movie title.
->![Example of 'movie' command]()
+>![Example of 'movie' command](/assets/movie-example.png)
 
 'time' - displays the current time (*24-Hour clock format*)
->![Example of 'time' command]()
+>![Example of 'time' command](/assets/time-example.png)
 
 'weather **[city]** *[country]*' - Displays the current, peak, and trough temperatures of the day in farenheight. City is a required argument while country is optional.
 >***NOTICE:** FUNCTION MAY NOT WORK BECAUSE THE OPENWEATHERAPI KEY COULD BE SWITCHED OFF WHEN TESTING. This is due to the fact that Open Weather closes keys lacking recent use. This can be solved by contacting me, or replacing the api key in the code with your own. Key's can be recieved at https://openweathermap.org/api*
 >
->![Example of 'weather' command]()
+>![Example of 'weather' command](/assets/weather-example.png)
