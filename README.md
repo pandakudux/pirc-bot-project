@@ -1,4 +1,4 @@
-# Pirc-Bot-project
+# Pirc-Bot-Project
 
 This repository contains the files used in the project. 
 
