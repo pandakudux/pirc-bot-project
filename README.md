@@ -38,8 +38,10 @@ To interact with the bot once it is running, go to https://webchat.freenode.net/
 'movie **[movie title]**' - accesses the OMDb API to display information about the given movie title.
 >![Example of 'movie' command](/assets/movie-example.png)
 
-'time' - displays the current time in 
+'time' - displays the current time (*24-Hour clock format*)
 >![Example of 'time' command](/assets/time-example.png)
 
 'weather **[city]** *[country]*' - Displays the current, peak, and trough temperatures of the day in farenheight. City is a required argument while country is optional.
+>***NOTICE:** FUNCTION MAY NOT WORK BECAUSE THE OPENWEATHERAPI KEY COULD BE SWITCHED OFF WHEN TESTING. This is due to the fact that Open Weather closes keys lacking recent use. This can be solved by contacting me, or replacing the api key in the code with your own. Key's can be recieved at https://openweathermap.org/api*
+>
 >![Example of 'weather' command](/assets/weather-example.png)
