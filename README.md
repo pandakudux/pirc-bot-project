@@ -1,9 +1,5 @@
 # Pirc-Bot-Project
 
-This repository contains the files used in the project. 
-
-## Abstract
-
 The goal of this project was to utilize the pirc-bot library and create an interactive chat-bot using java that accessed the OpenWeatherAPI and one other API of our choosing. The bot has functionality to make calls to both APIs and return relevant information.
 
 The .java files were created by me, both .jar files were supplied by the instructor.
